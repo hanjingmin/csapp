@@ -3,7 +3,10 @@
 #include <cstdlib>
 void test_case_2_1(void);
 
-
+/**
+ * @brief this case used for exercise 2.1
+ * 
+ */
 void test_case_2_1(void)
 {
     //1. convert hex to binary
